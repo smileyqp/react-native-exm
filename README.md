@@ -1,0 +1,1 @@
+![Image text](https://github.com/smileyqp/react-native-exm/blob/master/videoExample.gif)
